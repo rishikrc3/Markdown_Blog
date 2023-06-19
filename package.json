@@ -1,0 +1,27 @@
+{
+  "name": "markdown_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikrc3/Markdown_Blog.git"
+  },
+  "author": "Rishik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikrc3/Markdown_Blog/issues"
+  },
+  "homepage": "https://github.com/rishikrc3/Markdown_Blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
